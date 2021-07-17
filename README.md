@@ -1,7 +1,7 @@
 # Hospital-management
 A web application in which basic hospital management can be done. Through this web application we can admit, discharge and give appointments to the patients.All the other details such as doctor's information, Total number of rooms etc. are already added manually into the database.This application is build using HTML, CSS, JavaScript for frontend and Php, Xampp server, Phpmyadmin for backend.
 
-#ScreenShots
+# ScreenShots
 
 ![hospital 1](https://user-images.githubusercontent.com/87562239/126031960-6d54f8b4-563b-46c7-8d8b-86c82ae31aa7.PNG)
 ![hospital 2](https://user-images.githubusercontent.com/87562239/126031962-f55d389d-4b13-47f3-bedf-0c1d6e916651.PNG)
